@@ -1,0 +1,1 @@
+# Skrip-pengambilan-data-untuk-notif-gempa
