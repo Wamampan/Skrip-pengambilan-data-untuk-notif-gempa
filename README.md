@@ -1,4 +1,4 @@
-# 🌋 BMKG Gempa Monitor
+# 🌋 Notifikasi Gempa
 
 Program Python sederhana untuk memantau data gempa terkini dari **BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)** secara real-time melalui file XML. Program mengambil data secara berkala, membandingkannya dengan data yang sudah disimpan pada pemeriksaan sebelumnya, kemudian menampilkan informasi apabila terjadi perubahan. Notifikasi perubahan dapat dikirim ke Discord menggunakan webhook.
 
