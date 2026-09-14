@@ -124,4 +124,4 @@ Proyek ini bersifat independen dan **tidak berafiliasi resmi** dengan BMKG. Sela
 
 ## 🤝 Kontribusi
 
-Pull request dan issue sangat diterima. Untuk perubahan besar, silakan buka issue terlebih dahulu untuk mendiskusikan apa yang ingin diubah.
+Pull request dan issue sangat diterima. Untuk perubahan besar.
