@@ -122,12 +122,6 @@ Proyek ini bersifat independen dan **tidak berafiliasi resmi** dengan BMKG. Sela
 
 ---
 
-## 📄 Lisensi
-
-Silakan sesuaikan dengan lisensi pilihanmu, misalnya [MIT License](https://opensource.org/licenses/MIT).
-
----
-
 ## 🤝 Kontribusi
 
 Pull request dan issue sangat diterima. Untuk perubahan besar, silakan buka issue terlebih dahulu untuk mendiskusikan apa yang ingin diubah.
