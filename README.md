@@ -2,8 +2,6 @@
 
 Script Python ringan untuk memantau data gempa bumi terkini dari **BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)** secara real-time, dengan dukungan notifikasi otomatis ke **Discord** melalui webhook.
 
-Tidak ada dependency eksternal — 100% menggunakan Python standard library.
-
 ---
 
 ## ✨ Fitur
